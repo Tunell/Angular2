@@ -1,5 +1,5 @@
 # Angular2
-This is a basic test project of angular 2 using javascript (not typescript)
+This is a basic test project of angular 2 using javascript ES2015 (not typescript)
 
 ###install:
 npm install
